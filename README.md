@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📊 Exploratory Data Analysis (EDA) & Business Intelligence – Netflix Dataset
 🔹 Project Overview
 
@@ -89,3 +90,7 @@ It helps in understanding user preferences, content trends, and supports data-dr
 
 This project is part of a Data Analyst learning task focused on building practical skills in EDA, SQL, and dashboarding.
 
+=======
+# EDA-Business-Intelligence
+EDA &amp; Business Intelligence Project using Netflix Dataset
+>>>>>>> 4361d79b75c1d5b59761fd8e0a7ccb1a40404ee9
